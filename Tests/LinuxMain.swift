@@ -1,7 +1,7 @@
 import XCTest
 
-import DemoFW123Tests
+import Test2020Tests
 
 var tests = [XCTestCaseEntry]()
-tests += DemoFW123Tests.allTests()
+tests += Test2020Tests.allTests()
 XCTMain(tests)
